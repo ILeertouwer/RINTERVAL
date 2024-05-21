@@ -1,5 +1,5 @@
 # RINTERVAL
-Function for creating (roughly) equal intervals for timeseries data in R.
+Function for creating roughly equal intervals for timeseries data in R.
 
 | **Argument** | **Description** |
 |--------------|-----------------|
