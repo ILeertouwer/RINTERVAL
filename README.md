@@ -23,6 +23,6 @@ The minimum time interval for added missing values is .75 times the specified mi
 Suppose that the minimum interval is one hour (01:00:00):\
 T1 = 00:00:01, T2 = 01:30:01. True interval: 01:30, rounded to: 02:00. One missing value added; observed interval: 00:45.
 
-The maximum time interval for added missing values is 1.5 times the specified minimum interval.\ 
+The maximum time interval for added missing values is 1.5 times the specified minimum interval.\
 Suppose that the minimum interval is one hour (01:00:00):\
 T1 = 00:00:01, T2 = 01:29:59. True interval: 01:30, rounded to: 01:00.	No missing value added; observed interval: 01:30.
